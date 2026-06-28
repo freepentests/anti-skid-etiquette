@@ -47,11 +47,11 @@ The term "skid" is a shortened version of the term "script kiddie." As per the C
 > Someone who tries to get into other people's computer systems without permission in order to find out information or to do something illegal, but who does not have much skill in doing this and uses programs written by other people.
 
 However, the Cambridge dictionary definition is largely moribund; the term "skid" has now evolved to encompass a wider spectrum of individuals.
-Although the term "skid" can now be interpreted in a multitude of different ways, the following is the definition I find most accurate:
+Although the term "skid" can be interpreted in a multitude of different ways, the following is the definition I find most accurate:
 
 > A skid is a mildly pejorative term used to describe a pertinacious, intellectually-shallow individual who regularly partakes in online programming communities despite being inexperienced and unknowledgeable about the subject. A skid could also be defined as an individual who incorporates excerpts of code they found online into their own projects and passes it off as their own software despite not being entirely authored by them. 
 
-The majority of skids' self-proclaimed "intellectual property" is mainly comprised of intellectual property owned by other individuals to whom they do not accredit their code to.
+The majority of skids' self-proclaimed "intellectual property" is mainly comprised of intellectual property owned by other individuals to whom they do not accredit their code.
 
 Skids often posses a desire to learn how to code; however, the fact that they steal other people's code ultimately stultifies their ability to learn how to code. No skid will ever learn how to code until they acknowledge the fact that they are a skid and decide to act upon it.
 
@@ -59,9 +59,9 @@ One person's palpable coding abilitiy will always preponderate the aggragated co
 
 ## 1.2. Vibe Coding
 
-Vibe coding is a nascent type of skidding. The term "vibe coding" refers to the practice of getting ChatGPT to code for you and passing the code off as your own. For some convoluted but irrational reason, a lot of vibe coders actually believe that what they're doing is somehow more acceptable. Vibe coders incessantly extenuate vibe coding and try to pass it as not skidding, but every explanation I've witnessed being made so far is logically incoherent. It's impossible to justify the injustifiable.
+Vibe coding is a nascent type of skidding. The term "vibe coding" refers to the practice of getting ChatGPT to code for you and passing the code off as your own. For some convoluted but irrational reason, a lot of vibe coders sincerely believe that what they're doing is somehow more acceptable than copying and pasting code from GitHub. Vibe coders incessantly extenuate vibe coding and try to pass it as not skidding, but every explanation I've witnessed so far is logically incoherent; it's impossible to justify the injustifiable.
 
-Vibe coding almost entirely serves as a coping mechanism for imposter syndrome, as it beguiles its followers into believing they are not skidding, as they are not actively seeking skidding platforms such as StackOverflow and GitHub, which creates the illusion that the practice they're engaging in is disparate from skidding, when what they're doing is, in reality, entirely parallel to what they were doing before.
+Vibe coding almost entirely serves as a coping mechanism for imposter syndrome; vibe coding beguiles its followers into believing that they are not skidding, as they are not actively seeking skidding platforms such as StackOverflow and GitHub, which creates the illusion that the practice they're engaging in is disparate from skidding, when what they're doing is, in reality, entirely parallel to what they were doing before.
 
 Who could have guessed that relying on artificial intelligence would make your intelligence artificial? In my opinion, that deduction seems quite obvious and manifest.
 
