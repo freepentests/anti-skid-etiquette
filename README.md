@@ -1,6 +1,6 @@
 # Anti-Skid Etiquette
 
-Welcome to the anti-skid etiquette! This document defines a protocol designed to minimize the occurance of skidding. This document outlines the definition of the word "skid," why it is a negative trait, and a multitude of guidelines you must adhere by in order to not be considered a skid.
+Welcome to the anti-skid etiquette. This document defines a protocol designed to minimize the occurance of skidding. This document outlines the definition of the word "skid," why it is a negative trait, and a multitude of guidelines you must adhere by in order to not be considered a skid.
 
 Additionally, this document outlines various characteristics that are commonly imputed opon skids; however, these characteristics do not necessarily define someone's skid status, so you shouldn't rely on them alone.
 
@@ -39,4 +39,12 @@ Diachronically, my perspectives on programming/skidding has not significantly be
 
 - 4.1 - List of Good Coding Practices
 - 4.2 - Overall Summary
+
+# 1. Definition
+
+# 2. Guidelines/Etiquette
+
+# 3. Detecting Skids & Refuting their Fallacious Arguments
+
+# 4. Conclusion
 
