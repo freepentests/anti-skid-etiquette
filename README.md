@@ -19,9 +19,8 @@ Diachronically, my perspectives on programming/skidding have not underwent any s
 - 2.1 - Appropriate Usage of Code Sharing Platforms
 - 2.2 - Appropriate Usage of AI Tools
 - 2.3 - Appropriate Usage of Libraries
-- 2.4 - Appropriate Usage of Search Engines
-- 2.5 - Appropriate Usage of Documentation Recital
-- 2.6 - Anti-skid Policies
+- 2.4 - Appropriate Usage of Documentation Recital
+- 2.5 - Anti-skid Policies
 
 ## 3. Detecting Skids & Refuting their Fallacious Arguments
 
@@ -76,9 +75,9 @@ The following is a list of reasons why you shouldn't be a skid:
 - Skidding decreases rational thought.
 - If you do not understand how a project fits together, then interconnected elements of your program are more likely to fail.
 - Skidding forces you to rely on cognitive offloading; if ChatGPT or StackOverflow isn't there for you one day, your career falls apart. If your power goes off or the internet isn't there to assist you, your career falls apart. 
-- Coding skill atrophy is gradual and distributed over a large span of time, meaning it is not instantaneously noticeable.
+- Coding skill atrophy is gradual and distributed over a large span of time; it is not instantaneously noticeable.
 - Skidding causes complacency.
-- Developing software yourself requires way more intelligence than skidding. If you incessantly and regularly skid, then you will have less time in a day to complete intellectual tasks yourself, so consequently, you will become less intelligent (not just with relation to coding, but with relation to other everyday activities).
+- Developing software yourself requires way more intelligence than skidding. If you incessantly and regularly skid, then you will have less time in a day to complete intellectual tasks yourself, so consequently, you will become less intelligent (not just with relation to coding, but with relation to other everyday activities). Skids' intelligences are a pittance compared to real coders' intelligences.
 - Vibe coders are geniuses until they run out of tokens.
 - If someone's ability relies on relying on what is temporary, then that person's ability is fabricated.
 
@@ -114,23 +113,91 @@ If you read other people's code to understand how something works (such as a pro
 
 Before I commence this section, I would like to say that, personally, I am not fond of the term "vibe coding," as the term adumbrates that the individual engaging in the practice is "coding," when in reality, they are not writing any code, so as per the definition of coding, they are not coding. In my opinion, a more rational replacement of the term "vibe coding" would be "theft" or "stealing," so from now on, I will be interchangeably using the terms "theft" and "vibe coding" depending on what my intuition feels is more appropriate within context. Some would argue that vibe coding is not theft because they believe it is impossible to steal from a non-sentient entity, but in my opinion, it it possible to steal from non-sentient entities; theft doesn't inherently have to involve stealing from a sentient being.
 
-Vibe coding is by far the skidding technique that needs to be approached with the most exigence. Vibe coding is emerging at an almost exponential rate, which is extremely unsettling. However, what is even more unsettling unsettling about vibe coding is that the vast majority of people see it as being somehow disparate from the other skidding techniques, which is absurd and irrational.
+In my opinion, vibe coding is the skidding technique that should be approached with the most exigence. Vibe coding is emerging at an almost exponential rate, which is extremely unsettling. However, what is even more unsettling unsettling about vibe coding is that the vast majority of people see it as being somehow disparate from the other skidding techniques, which is absurd and irrational.
 
-You may think that I'm some delusional, doctrinaire madman for averring that vibe coding is a form of skidding, but when you even slightly cogitate about it, you will think to yourself that it is almost directly analogous to the previously-discussed skidding technique. Ask yourself this: how is copying and pasting code from ChatGPT distinct from any other form of skidding that you abhor, such as copying and pasting code from GitHub? Does the fact that you stole code from an artificial entity somehow vatify that vibe coding should be considered less skiddy than stealing from a real person? Well, as per the definition, you're still incorporating code that you don't understand into your project regardless of whether it's written by ChatGPT or by a real human. While some could argue it's depraved or more immoral to steal from a real person, stealing from ChatGPT is still falls under the category of "skid" regardless of the morality of it, and all of the points listed in section 1.3 still apply to you regardless of what you steal from.
+You may think that I'm some delusional, doctrinaire madman for averring that vibe coding is a form of skidding, but when you even slightly cogitate about it, you will think to yourself that it is almost directly analogous to the previously-discussed skidding technique. Ask yourself this: how is copying and pasting code from ChatGPT distinct from any other form of skidding that you abhor? Does the fact that you stole code from an artificial entity somehow vatify that vibe coding should be considered less skiddy than stealing from a real person? Well, as per the definition, you're still incorporating code that you don't understand into your project regardless of whether it's written by ChatGPT or by a real human. While some could argue it's depraved or more immoral to steal from a real person, stealing from ChatGPT is still falls under the category of "skid" regardless of the morality of it, and all of the points listed in section 1.3 still apply to you regardless of what you steal from. If you desire to demur at my assertion that using vibe coding is skidding, then stop reading this article right now, as you're solely attempting to educe indignation within me and there's no chance for you to improve.
 
-People ask "will AI take over our jobs?"; however, the answer is that AI has indirectly taken over our jobs already. The majority of professional software engineers already AI during work time to the point that it has almost completely atrophied and stultified their ability to code independently. AI companies almost completely subjugate professional software engineers. It has come to a point where companies just employ software engineers to prompt AI code and monitor it to make sure that it doesn't crash during production. The only reason companies still need to employ software engineers is that AI is still incapable of authoring and deploying code independently, which is why companies need to employ self-proclaimed "software engineers" to overlook the AI's activity. Software engineering doesn't exist in the job market anymore; the only things that exist in the job market is AI code overlookers that call themselves software engineers, when in reality, they don't posses any palpable software engineering skill, which is why they resort to vibe coding. Instead of asking "will AI take over our jobs?," we should be asking "what can we do to secure the existence of tangible software engineering?" 
+People ask "will AI take over our jobs?"; however, the answer is that AI has indirectly taken over our jobs already. The majority of professional software engineers already vibe code during work time to the point that it has almost completely atrophied and stultified their ability to code independently. AI companies almost completely subjugate professional software engineers. It has come to a point where companies just employ software engineers to prompt AI code and monitor it to make sure that it doesn't crash during production. The only reason companies still need to employ software engineers is that AI is still incapable of authoring and deploying code independently, which is why companies need to employ self-proclaimed "software engineers" to overlook the AI's activity. Software engineering doesn't exist in the job market anymore; the only things that exist in the job market is AI code overlookers that call themselves software engineers, when in reality, they don't posses any palpable software engineering skill, which is why they resort to vibe coding. Instead of asking "will AI take over our jobs?," we should be asking "what can we do to secure the existence of tangible software engineering?" 
 
-However, not all use of AI in coding falls under the category of "skid"; the following is a list of ways AI can be used appositely:
+However, not all use of AI in coding falls under the category of "skid"; the following is a list of ways AI can be utilized appositely:
 
-###
+### Using AI to Learn Coding
+
+Using AI to learn coding is an apposite and effective way to use AI. For example, if you don't understand a programming topic, asking AI for an explanation is an effective way to learn that topic. As long as you are not getting AI to write code for you, it is not skidding.
+
+### Using AI to Review Prior Code (approach with caution)
+
+Asking AI to review your source code and adumbrate potential improvements can be an effective and apposite way to use AI; however, this should be approached with caution and not over-used, as it is possible (although unlikely) to fall into a viscious cycle of repeatedly requesting AI to review your code to the point that you are essentially mindlessly obtaining ideas for improvement from AI without learning to mitigate the mistakes you made in the future.
+
+### Using AI to Complete Repetitive Tasks (approach with EXTREME caution)
+
+If there is a task you need to complete where you're essentially just repeatedly copying and pasting old parts of your code and making minor amendments, then copying and pasting from AI could be appropriate in that circumstance, as all you'd be doing would be copying and pasting code regardless of whether you used AI or not. This is the SOLE scenario where I would aver the appositeness of copying and pasting from AI. To ensure you don't misinterpret my words, I'm going to provide some example scenarios to illustrate how I intend you to interpret my words:
+
+> Do not abuse this rule, and I repeat, do NOT abuse this rule.
+
+#### Example 1: Builder Setters
+
+An example of a "repetitive task" would be writing setters for builders. For example, if you had written the following code:
+
+```js
+class PersonBuilder {
+    constructor() {
+        this.name;
+        this.age;
+        this.hobbies = [];
+        this.ethnicity;
+        this.nationality;
+        this.eyeColor;
+    }
+
+    setName(value) {
+        this.name = value;
+        return this;
+    }
+
+    setAge(value) {
+        this.age = value;
+        return this;
+    }
+}
+```
+
+Asking AI "can you finish the rest of the setters (setHobbies, setEthnicity, setNationality, etc.)" would be forgivable in this context.
+
+#### Example 2: Object Key Reversal
+
+A supplementary example of a "repetitive task" would be reversing object keys. For example, if you had written following code:
+
+```js
+const opcodes = {
+    'sendChatMessage': 1,
+    'sendUserCredentials': 5,
+    'sendFriendRequest': 6,
+};
+```
+
+and you wanted to hardcode reversed clones of these object entries:
+
+```js
+const opcodes = {
+    'sendChatMessage': 1,
+    'sendUserCredentials': 5,
+    'sendFriendRequest': 6,
+    '1': 'sendChatMessage',
+    '5': 'sendUserCredentials',
+    '6': 'sendFriendRequest'
+};
+```
+
+using AI for that purpose would be acceptable, apposite, and felicitous, as it is an example repetitive task that inherently requires minimal thought and cogitation (asking AI to do it for you would probably require more intelligence in this scenario). Using AI in this scenario would be smarter and more efficient.
 
 ## 2.3. Appropriate Usage of Libraries
 
-## 2.4. Appropriate Usage of Search Engines
+I acknowledge that this guideline is mildly controversial, and I envision that this will likely educe indignation within readers who advocate for the use of libraries, but I believe that this topic should be discussed.
 
-## 2.5. Appropriate Usage of Documentation Recital
+## 2.4. Appropriate Usage of Documentation Recital
 
-## 2.6. Anti-skid Policies
+## 2.5. Anti-skid Policies
 
 # 3. Detecting Skids & Refuting their Fallacious Arguments
 
