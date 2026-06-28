@@ -42,7 +42,7 @@ Diachronically, my perspectives on programming/skidding have not underwent any s
 
 ## 1.1. Definition of the Term "Skid"
 
-The term "skid" is a shortened version of the term "script kiddie." As per the Cambridge dictionary, the folllowing is a definition of the term "skid:"
+The term "skid" is a shortened version of the term "script kiddie." As per the Cambridge dictionary, the following is a definition of the term "skid:"
 
 > Someone who tries to get into other people's computer systems without permission in order to find out information or to do something illegal, but who does not have much skill in doing this and uses programs written by other people.
 
@@ -115,7 +115,7 @@ Before I commence this section, I would like to say that, personally, I am not f
 
 In my opinion, vibe coding is the skidding technique that should be approached with the most exigence. Vibe coding is emerging at an almost exponential rate, which is extremely unsettling. However, what is even more unsettling unsettling about vibe coding is that the vast majority of people see it as being somehow disparate from the other skidding techniques, which is absurd and irrational.
 
-You may think that I'm some delusional, doctrinaire madman for averring that vibe coding is a form of skidding, but when you even slightly cogitate about it, you will think to yourself that it is almost directly analogous to the previously-discussed skidding technique. Ask yourself this: how is copying and pasting code from ChatGPT distinct from any other form of skidding that you abhor? Does the fact that you stole code from an artificial entity somehow vatify that vibe coding should be considered less skiddy than stealing from a real person? Well, as per the definition, you're still incorporating code that you don't understand into your project regardless of whether it's written by ChatGPT or by a real human. While some could argue it's depraved or more immoral to steal from a real person, stealing from ChatGPT is still falls under the category of "skid" regardless of the morality of it, and all of the points listed in section 1.3 still apply to you regardless of what you steal from. If you desire to demur at my assertion that using vibe coding is skidding, then stop reading this article right now, as you're solely attempting to educe indignation within me and there's no chance for you to improve.
+You may think that I'm some delusional, doctrinaire madman for averring that vibe coding is a form of skidding, but when you even slightly cogitate about it, you will think to yourself that it is almost directly analogous to the previously-discussed skidding technique. Ask yourself this: how is copying and pasting code from ChatGPT distinct from any other form of skidding that you abhor? Does the fact that you stole code from an artificial entity somehow vatify that vibe coding should be considered less skiddy than stealing from a real person? Well, as per the definition, you're still incorporating code that you don't understand into your project regardless of whether it's written by ChatGPT or by a real human. While some could argue it's depraved or more immoral to steal from a real person, stealing from ChatGPT is still falls under the category of "skid" regardless of the morality of it, and all of the points listed in section 1.3 still apply to you regardless of what you steal from. If you desire to demur at my assertion that using vibe coding is skidding, then stop reading this article right now, as you're solely attempting to educe indignation within me and there's no possibility for you to improve.
 
 People ask "will AI take over our jobs?"; however, the answer is that AI has indirectly taken over our jobs already. The majority of professional software engineers already vibe code during work time to the point that it has almost completely atrophied and stultified their ability to code independently. AI companies almost completely subjugate professional software engineers. It has come to a point where companies just employ software engineers to prompt AI code and monitor it to make sure that it doesn't crash during production. The only reason companies still need to employ software engineers is that AI is still incapable of authoring and deploying code independently, which is why companies need to employ self-proclaimed "software engineers" to overlook the AI's activity. Software engineering doesn't exist in the job market anymore; the only things that exist in the job market is AI code overlookers that call themselves software engineers, when in reality, they don't posses any palpable software engineering skill, which is why they resort to vibe coding. Instead of asking "will AI take over our jobs?," we should be asking "what can we do to secure the existence of tangible software engineering?" 
 
@@ -210,6 +210,28 @@ You might describe the fact that I use programming languages and the fact I abho
 I apologize for utilizing a mildly truculent analogy, but I would describe a programming language as being similar to a firearm in that the firearm itself doesn't murder people; the firearm is a medium through which a murderer murders people, and I would describe skidding as being similar to the act of hiring a hitman to murder someone for you; you might be ultimately responsible for the facilitation of the murder, but you did not directly murder the target; you got someone else to facilitate it for you.
 
 ## 2.5. Anti-skid Policies
+
+The following is a list of three policies I command you to adhere by in order to not have skid-like characteristics imputed upon you:
+
+---
+
+### Explain Before Publishing
+
+Before publishing your code, you must first comprehensively and non-exiguously explain each line of it. If you are incapable of explaining your code line-by-line, you manifestly do not comprehend its functionality, so if you are incapable of explaining a line of your code, then I admonish you to enlighten yourself to its significance and refrain from skidding in the future.
+
+### Review Your Code to Attempt to Identify any Occurrences of Skidding
+
+I notice a recurring, incessant behavioral pattern commonly exhibited by former skids who recently apostatized from the practice of skidding, and that behavioral pattern is that they subconsciously skid without realizing in the moment that they skidded. Years ago, I was a slight skid, and following my apostasy from skidding, I noticed this pattern occurring within me, and it took me an inordinate amount of time to overcome it. Words can't express how grateful I am that my skid phase only lasted for a few months.
+
+To overcome this subconscious habit, I admonish you to review your code after you've finished writing it and identify any lines of code you didn't write yourself, then rewrite not solely the line, but the entire function, all by yourself. This will reinforce the concept of not skidding to your subconscious mind, which may be intricate or abstruse to grasp for a mind that has never before underwent the process of apostatizing a maladaptive habit such as skidding. Skidding is a maladaptive habit that is guaranteed to result in drastic, life-threatening depredation.
+
+### Re-implement Libraries Before Utilizing Pre-written Libraries
+
+The definition of a library is the literal and exact definition of skidded code. If you can not rewrite the library you're utilizing entirely from scratch, then you do not comprehend how it works. Before utilizing any external libraries, I beseech you to first manifest to yourself that you are capable of writing its features from scratch.
+
+---
+
+Following the policies above will largely contribute to my ultimate decision of averring that you fall under the category of "non-skid."
 
 # 3. Detecting Skids & Refuting their Fallacious Arguments
 
