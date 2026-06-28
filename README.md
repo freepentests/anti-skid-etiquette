@@ -4,7 +4,7 @@ Welcome to the anti-skid etiquette. This document defines a protocol designed to
 
 Additionally, this document outlines various characteristics that are commonly imputed opon skids; however, these characteristics do not necessarily define someone's skid status, so you shouldn't rely on them alone.
 
-Diachronically, my perspectives on programming/skidding have not underwent any significal amendments; however, although minimal, my perspectives on skidding have still underwent minor amendments, which is why this document aims to provide a constant, strict protocol for developers to adhere by.
+Diachronically, my perspectives on programming/skidding have not underwent any significant amendments; however, although minimal, my perspectives on skidding have still underwent minor amendments, which is why this document aims to provide a constant, strict protocol for developers to adhere by.
 
 # Table of Contents
 
