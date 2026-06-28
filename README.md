@@ -19,7 +19,7 @@ Diachronically, my perspectives on programming/skidding have not underwent any s
 - 2.1 - Appropriate Usage of Code Sharing Platforms
 - 2.2 - Appropriate Usage of AI Tools
 - 2.3 - Appropriate Usage of Libraries
-- 2.4 - Appropriate Usage of Documentation Recital
+- 2.4 - Programming Languages
 - 2.5 - Anti-skid Policies
 
 ## 3. Detecting Skids & Refuting their Fallacious Arguments
@@ -47,7 +47,7 @@ The term "skid" is a shortened version of the term "script kiddie." As per the C
 > Someone who tries to get into other people's computer systems without permission in order to find out information or to do something illegal, but who does not have much skill in doing this and uses programs written by other people.
 
 However, the Cambridge dictionary definition is largely moribund; the term "skid" has now evolved to encompass a wider spectrum of individuals.
-Although the term "skid" can be now interpreted in a multitude of different ways, the following is the definition I find most accurate:
+Although the term "skid" can now be interpreted in a multitude of different ways, the following is the definition I find most accurate:
 
 > A skid is a mildly pejorative term used to describe a pertinacious, intellectually-shallow individual who regularly partakes in online programming communities despite being inexperienced and unknowledgeable about the subject. A skid could also be defined as an individual who incorporates excerpts of code they found online into their own projects and passes it off as their own software despite not being entirely authored by them. 
 
@@ -193,9 +193,21 @@ using AI for that purpose would be acceptable, apposite, and felicitous, as it i
 
 ## 2.3. Appropriate Usage of Libraries
 
-I acknowledge that this guideline is mildly controversial, and I envision that this will likely educe indignation within readers who advocate for the use of libraries, but I believe that this topic should be discussed.
+I acknowledge that this guideline is mildly controversial, and I envision that this will likely educe indignation within readers who advocate for the use of libraries, but I believe that this topic should still be thoroughly discussed.
 
-## 2.4. Appropriate Usage of Documentation Recital
+For some rationally incoherent reason, people incessantly and obstinately regard libraries as being somehow less skiddy than other forms of skidding which they abhor. The definition of a library is an external project you incorporate into your code, which is almost directly analogous to the definition of a skid; the definitions are almost entirely parallel; if you got rid of the word "library," the definition would be virtually indistinguishable from the definition for the term "skid." There is an intimate nexus between the terms "skidding" and "library usage"; the juxtaposition is virtually non-existent.
+
+I acknowledge that libraries manifestly render development more efficient, but so do the previously-discussed forms of skidding; there is no eminent disparation between libraries and other forms of skidding, and any individual who wishes to demur at this assertion is simply doing so as a coping mechanism.
+
+My perspectives on the usage of libraries have diachronically changed, but I now firmly aver that the usage of libraries should be strictly and entirely omitted unless they are written by you or unless you've reproduced your own version of a library with features identical to the features of the library that you intend to utilize.
+
+So, to conclude, **libraries should never be utilized unless you write them yourself or unless you re-implement all features of the library that you intend to incorporate into your own project prior to incorporating them into your project**.
+
+## 2.4. Programming Languages
+
+You might describe the fact that I use programming languages and the fact I abhor the use of libraries as being contradictory; however, I beseech to demur.
+
+I apologize for utilizing a mildly truculent analogy, but I would describe a programming language as being similar to a firearm in that the firearm itself doesn't murder people; the firearm is a medium through which a murderer murders people, and I would describe skidding as being similar to the act of hiring a hitman to murder someone for you; you might be ultimately responsible for the facilitation of the murder, but you did not directly murder the target; you got someone else to facilitate it for you.
 
 ## 2.5. Anti-skid Policies
 
