@@ -22,18 +22,7 @@ Diachronically, my perspectives on programming/skidding have not underwent any s
 - 2.4 - Programming Languages
 - 2.5 - Anti-skid Policies
 
-## 3. Detecting Skids & Refuting their Fallacious Arguments
-
-- 3.1 - Common Characteristics of Skids
-- 3.2 - Common Characteristics of Non-skids
-- 3.3 - Common Characteristics of AI-written Code
-- 3.4 - Common Characteristics of Non-AI-written Code
-- 3.5 - Common Fallacious/irrational Arguments Used by Skids
-- 3.6 - Techniques to Accurately Determine Someone's Skid Status
-- 3.7 - Interview Techniques
-- 3.8 - Summary
-
-## 4. Conclusion
+## 3. Conclusion
 
 - 4.1 - List of Good Coding Practices
 - 4.2 - Overall Summary
@@ -233,7 +222,5 @@ The definition of a library is the literal and exact definition of skidded code.
 
 Following the policies above will largely contribute to my ultimate decision of averring that you fall under the category of "non-skid."
 
-# 3. Detecting Skids & Refuting their Fallacious Arguments
-
-# 4. Conclusion
+# 3. Conclusion
 
